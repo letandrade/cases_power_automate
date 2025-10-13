@@ -34,6 +34,8 @@ O arquivo √© armazenado em uma pasta do **OneDrive**, e o envio ocorre em **hor√
 
 <img width="452" height="833" alt="{51129749-A730-42F9-AA8C-6489F63697DC}" src="https://github.com/user-attachments/assets/e5af43a2-9263-47f1-91d1-3f545ba00cbd" />
 
+<img width="1017" height="475" alt="{C1CA9687-A078-427D-9F87-9271E4656F94}" src="https://github.com/user-attachments/assets/33c1c08c-d0ec-487b-aee8-403083745169" />
+
 
 ## **5.0 Resultados**
 
