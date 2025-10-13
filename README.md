@@ -16,19 +16,19 @@ Cada caso inclui a descrição do problema, etapas mapeadas, etapas de desenvolv
 
 ## **4.0 Desenvolvimento**
 
-### 4.1 Descrição do problema - Enviar email automático
+**4.1 Descrição do problema - Enviar email automático**
 
-Encaminhar automaticamente um **e-mail diário** com um **arquivo Excel (.xlsx)** anexado.  
-O arquivo é armazenado em uma pasta do **OneDrive**, e o envio ocorre em **horário programado**.
+Encaminhar automaticamente um e-mail diáriO com um arquivo Excel (.xlsx) anexado.  
+O arquivo é armazenado em uma pasta do OneDrive, e o envio ocorre em horário programado.
 
-4.1.2 Etapas mapeadas
+**4.1.1 Etapas mapeadas**
 
 - Definir a recorrência.
 - Buscar o arquivo no OneDrive.
 - Anexar arquivo ao email.
 - Enviar email. 
 
-4.1.3 Execução e resultado
+**4.1.2 Execução e resultado**
 
 <img width="1887" height="402" alt="{DA0D9DFF-54DF-4F83-AABA-040E92173CFC}" src="https://github.com/user-attachments/assets/3e6b51d3-775a-4c91-9cb3-30b8316e2022" />
 
@@ -36,6 +36,15 @@ O arquivo é armazenado em uma pasta do **OneDrive**, e o envio ocorre em **hor�
 
 <img width="1017" height="475" alt="{C1CA9687-A078-427D-9F87-9271E4656F94}" src="https://github.com/user-attachments/assets/33c1c08c-d0ec-487b-aee8-403083745169" />
 
+
+**4.2 Descrição do problema - Organizar arquivos**
+
+Implementar um fluxo automatizado capaz de organizar automaticamente os arquivos armazenados no OneDrive, direcionando-os para pastas específicas com base em sua extensão.
+O fluxo identifica o tipo de arquivo (por exemplo, .ppt, .pdf, .xlsx) e move cada item para a respectiva pasta.
+
+**4.2.1 Etapas mapeadas**
+
+**4.2.2 Execução e resultado**
 
 ## **5.0 Resultados**
 
