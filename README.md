@@ -1,5 +1,11 @@
 <h1 align="center">Cases de Power Automate <br /> </h1>
 
+<h1 align="center">⚙️ Cases de Power Automate</h1>
+<p align="center">
+  <em>Automatizações criadas para otimizar processos, reduzir tarefas manuais e aumentar a eficiência operacional.</em>
+</p>
+
+---
 ## **1.0 Visão geral**
 Este repositório reúne automações desenvolvidas no **Microsoft Power Automate**, com foco em tarefas corporativas recorrentes.  
 Cada caso inclui a descrição do problema, etapas mapeadas, etapas de desenvolvimento e or resultado obtido.
