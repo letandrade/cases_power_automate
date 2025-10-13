@@ -16,7 +16,7 @@ Cada caso inclui a descrição do problema, etapas mapeadas, etapas de desenvolv
 
 ## **4.0 Desenvolvimento**
 
-## 4.1 Descrição do problema - Enviar email automático
+# 4.1 Descrição do problema - Enviar email automático
 
 Encaminhar um email com um arquivo em excel (xlsx) todos os dias em determinado horário tendo como fonte do anexo o anedrive. 
 
