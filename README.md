@@ -18,9 +18,15 @@ Cada caso inclui a descrição do problema, etapas mapeadas, etapas de desenvolv
 
 ### 4.1 Descrição do problema - Enviar email automático
 
-Encaminhar um email com um arquivo em excel (xlsx) todos os dias em determinado horário tendo como fonte do anexo o anedrive. 
+Encaminhar automaticamente um **e-mail diário** com um **arquivo Excel (.xlsx)** anexado.  
+O arquivo é armazenado em uma pasta do **OneDrive**, e o envio ocorre em **horário programado**.
 
 4.1.2 Etapas mapeadas
+
+- Definir a recorrência.
+- Buscar o arquivo no OneDrive.
+- Anexar arquivo ao email.
+- Enviar email. 
 
 4.1.3 Execução e resultado
 
