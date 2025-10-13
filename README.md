@@ -30,5 +30,10 @@ O arquivo é armazenado em uma pasta do **OneDrive**, e o envio ocorre em **hor�
 
 4.1.3 Execução e resultado
 
+<img width="1887" height="402" alt="{DA0D9DFF-54DF-4F83-AABA-040E92173CFC}" src="https://github.com/user-attachments/assets/3e6b51d3-775a-4c91-9cb3-30b8316e2022" />
+
+<img width="452" height="833" alt="{51129749-A730-42F9-AA8C-6489F63697DC}" src="https://github.com/user-attachments/assets/e5af43a2-9263-47f1-91d1-3f545ba00cbd" />
+
+
 ## **5.0 Resultados**
 
