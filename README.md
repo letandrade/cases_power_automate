@@ -1,5 +1,3 @@
-<h1 align="center">Cases de Power Automate <br /> </h1>
-
 <h1 align="center">⚙️ Cases de Power Automate</h1>
 <p align="center">
   <em>Automatizações criadas para otimizar processos, reduzir tarefas manuais e aumentar a eficiência operacional.</em>
