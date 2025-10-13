@@ -21,14 +21,14 @@ Cada caso inclui a descrição do problema, etapas mapeadas, etapas de desenvolv
 Encaminhar automaticamente um e-mail diáriO com um arquivo Excel (.xlsx) anexado.  
 O arquivo é armazenado em uma pasta do OneDrive, e o envio ocorre em horário programado.
 
-**4.1.1 Etapas mapeadas**
+4.1.1 Etapas mapeadas
 
 - Definir a recorrência.
 - Buscar o arquivo no OneDrive.
 - Anexar arquivo ao email.
 - Enviar email. 
 
-**4.1.2 Execução e resultado**
+4.1.2 Execução e resultado
 
 <img width="1887" height="402" alt="{DA0D9DFF-54DF-4F83-AABA-040E92173CFC}" src="https://github.com/user-attachments/assets/3e6b51d3-775a-4c91-9cb3-30b8316e2022" />
 
@@ -42,9 +42,9 @@ O arquivo é armazenado em uma pasta do OneDrive, e o envio ocorre em horário p
 Implementar um fluxo automatizado capaz de organizar automaticamente os arquivos armazenados no OneDrive, direcionando-os para pastas específicas com base em sua extensão.
 O fluxo identifica o tipo de arquivo (por exemplo, .ppt, .pdf, .xlsx) e move cada item para a respectiva pasta.
 
-**4.2.1 Etapas mapeadas**
+4.2.1 Etapas mapeadas
 
-**4.2.2 Execução e resultado**
+4.2.2 Execução e resultado
 
 ## **5.0 Resultados**
 
