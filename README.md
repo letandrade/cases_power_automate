@@ -65,5 +65,9 @@ Acessar uma planilha de cadastro de funcionários armazenada no OneDrive, filtra
 
 ### 4.2.2 Execução e resultado
 
+<img width="1512" height="271" alt="{A283113E-53BA-4C38-AAFB-99C4291E4988}" src="https://github.com/user-attachments/assets/43d028ec-8109-45d2-9311-8bd078191bdf" />
+
+<img width="500" height="825" alt="{9588D86E-E181-4131-8F3A-0A035F16F736}" src="https://github.com/user-attachments/assets/0ef38829-c25c-4e36-b17c-4aad0d8ecc15" />
+
 # **5.0 Resultados**
 
