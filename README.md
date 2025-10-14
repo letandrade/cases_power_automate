@@ -46,5 +46,10 @@ O fluxo identifica o tipo de arquivo (por exemplo, .ppt, .pdf, .xlsx) e move cad
 
 4.2.2 Execução e resultado
 
+<img width="1517" height="524" alt="{8FED37B0-6E7A-4A45-AE19-9BD153D2DB33}" src="https://github.com/user-attachments/assets/9fbcf3de-0ee1-4362-b6c9-a0c8f25190a1" />
+
+<img width="1261" height="871" alt="{052EE5E5-BAA2-431F-8F8F-A52A7C4AC9BF}" src="https://github.com/user-attachments/assets/502d27f2-87ce-4ebf-a173-5317b7c3fd26" />
+
+
 ## **5.0 Resultados**
 
