@@ -58,6 +58,11 @@ Acessar uma planilha de cadastro de funcionários armazenada no OneDrive, filtra
 
 ### 4.2.1 Etapas mapeadas
 
+- Acessar a planilha “Cadastro Funcionário” no OneDrive;
+- Acessar a planilha “Email Diretor” no OneDrive;
+- Filtrar a planilha “Cadastro Funcionário” para cada área com as colunas Nome e Remuneração;
+- Enviar um e-mail para o diretor responsável com os dados dos funcionários da área dele.
+
 ### 4.2.2 Execução e resultado
 
 # **5.0 Resultados**
