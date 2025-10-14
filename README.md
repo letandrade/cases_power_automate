@@ -16,7 +16,7 @@ Cada caso inclui a descrição do problema, etapas mapeadas, etapas de desenvolv
 
 # **4.0 Desenvolvimento**
 
-##**4.1 Descrição do problema - Enviar email automático**
+## **4.1 Descrição do problema - Enviar email automático**
 
 Encaminhar automaticamente um e-mail diáriO com um arquivo Excel (.xlsx) anexado.  
 O arquivo é armazenado em uma pasta do OneDrive, e o envio ocorre em horário programado.
