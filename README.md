@@ -54,6 +54,8 @@ O fluxo identifica o tipo de arquivo (por exemplo, .ppt, .pdf, .xlsx) e move cad
 
 ## **4.3 Descrição do problema - Filtrando dados**
 
+Acessar uma planilha de cadastro de funcionários armazenada no OneDrive, filtrar os registros por área/departamento e enviar um e-mail automático para o diretor responsável por cada área, com as informações dos colaboradores daquele setor.
+
 ### 4.2.1 Etapas mapeadas
 
 ### 4.2.2 Execução e resultado
